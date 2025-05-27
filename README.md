@@ -4,8 +4,8 @@ This repository contains a simple chatbot interface built with [Streamlit](https
 
 ## Demo
 
-https://user-images.githubusercontent.com/your-github-id/your-video-id.mp4  
-*(Replace with actual GitHub-hosted video link if uploading to repo)*
+https://github.com/Bal67/AWSBedrock-Chatbot/blob/main/docs/DemoBot.mov
+
 
 ## Features
 
